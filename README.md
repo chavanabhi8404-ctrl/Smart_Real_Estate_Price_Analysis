@@ -1,8 +1,8 @@
-# 🏠 Smart Real Estate Price Analytics
+#  Smart Real Estate Price Analytics
 
 ### End-to-End Data Analytics Project Using Python
 
-## 📌 1. Project Overview
+##  1. Project Overview
 
 Smart Real Estate Price Analytics is an end-to-end data analytics project developed using Python.
 
@@ -10,7 +10,7 @@ The project analyzes housing data to understand the major factors affecting resi
 
 The main objective is to transform raw housing data into meaningful insights that can help buyers, sellers, and real estate businesses make better decisions.
 
-## 🎯 2. Project Objectives
+##  2. Project Objectives
 
 - Analyze real estate housing data.
 - Clean and preprocess raw datasets.
@@ -21,7 +21,7 @@ The main objective is to transform raw housing data into meaningful insights tha
 - Identify important property price factors.
 - Generate data-driven business recommendations.
 
-## 🛠️ 3. Technologies & Skills Used
+##  3. Technologies & Skills Used
 
 | Technology / Skill | Purpose |
 |---|---|
@@ -42,7 +42,7 @@ The main objective is to transform raw housing data into meaningful insights tha
 - Business Intelligence
 - Insight Generation
 
-## 📂 4. Dataset Information
+##  4. Dataset Information
 
 **Dataset:** King County House Sales Dataset
 
@@ -62,7 +62,7 @@ The main objective is to transform raw housing data into meaningful insights tha
 | Construction | yr_built, yr_renovated |
 | Target | price |
 
-## 🔄 5. Project Workflow
+##  5. Project Workflow
 
 ### Step 1: Data Loading & Understanding
 - Imported the dataset using Pandas.
@@ -121,7 +121,7 @@ Used Matplotlib and Seaborn to create visual representations of housing data.
 
 Visualizations helped identify trends, patterns, correlations, and outliers in property prices.
 
-## 📊 6. Key Findings & Insights
+##  6. Key Findings & Insights
 
 1. Living area (`sqft_living`) has a strong positive relationship with house prices.
 2. Construction grade plays an important role in property valuation.
@@ -130,7 +130,7 @@ Visualizations helped identify trends, patterns, correlations, and outliers in p
 5. Lot size alone does not explain property prices effectively.
 6. Location contributes to differences in property values.
 
-## 💡 7. Business Recommendations
+##  7. Business Recommendations
 
 - Focus on property quality and living space when evaluating investments.
 - Consider renovation potential when purchasing properties.
@@ -138,7 +138,7 @@ Visualizations helped identify trends, patterns, correlations, and outliers in p
 - Compare price per square foot across locations.
 - Use data-driven insights to support property buying and selling decisions.
 
-## ⚠️ 8. Limitations & Assumptions
+##  8. Limitations & Assumptions
 
 **Limitations:**
 - No inflation adjustment was performed.
@@ -151,7 +151,7 @@ Visualizations helped identify trends, patterns, correlations, and outliers in p
 - Missing numerical values are appropriately represented by median imputation.
 - Observed relationships do not necessarily imply causation.
 
-## 📁 9. Project Structure
+##  9. Project Structure
 
 Smart_Real_Estate_Price_Analytics/
 │
@@ -166,7 +166,7 @@ Smart_Real_Estate_Price_Analytics/
 └── requirements.txt
 
 
-## 👨‍💻 10. Author
+##  10. Author
 
 **Project:** Smart Real Estate Price Analytics
 
@@ -178,5 +178,5 @@ Smart_Real_Estate_Price_Analytics/
 
 
 
-⭐ If you find this project useful, consider giving it a star on GitHub.
+- If you find this project useful, consider giving it a star on GitHub.
 
