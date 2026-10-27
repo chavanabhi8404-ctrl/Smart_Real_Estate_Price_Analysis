@@ -23,14 +23,13 @@ The main objective is to transform raw housing data into meaningful insights tha
 
 ##  3. Technologies & Skills Used
 
-| Technology / Skill | Purpose |
-|---|---|
-| Python | Programming |
-| NumPy | Numerical operations |
-| Pandas | Data manipulation |
-| Matplotlib | Data visualization |
-| Seaborn | Statistical visualization |
-| Jupyter Notebook | Development environment |
+
+1).Python :- Programming 
+2).NumPy :- Numerical operations 
+3).Pandas :- Data manipulation 
+4).Matplotlib :- Data visualization 
+5).Seaborn :- Statistical visualization 
+6).Jupyter Notebook :- Development environment 
 
 **Key Data Analytics Skills:**
 - Data Cleaning & Preprocessing
@@ -53,14 +52,13 @@ The main objective is to transform raw housing data into meaningful insights tha
 
 **Important Features:**
 
-| Category | Features |
-|---|---|
-| Property Size | sqft_living, sqft_lot |
-| Structure | bedrooms, bathrooms, floors |
-| Quality | grade, condition |
-| Location | zipcode, waterfront, view |
-| Construction | yr_built, yr_renovated |
-| Target | price |
+
+1).Property Size :- sqft_living, sqft_lot. 
+2).Structure :- bedrooms, bathrooms, floors. 
+3).Quality :- grade, condition. 
+4).Location :- zipcode, waterfront, view. 
+5).Construction :- yr_built, yr_renovated. 
+6).Target :- price.
 
 ##  5. Project Workflow
 
